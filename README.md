@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bulut Yerli</h1>
+<div style="position: relative; text-align: center;">
+  <h1 style="margin: 0;">Hi 👋, I'm Bulut Yerli</h1>
+  <h3>A passionate full stack developer from Istanbul / Turkiye</h3>
+  <img src="assets/aws-certified-developer-associate.png" alt="AWS Certified Developer" width="75" height="75" style="position: absolute; right: 0; top: 0; margin: 10px;" />
+</div>
 <h3 align="center">A passionate full stack developer from Istanbul / Turkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutyerli&label=Profile%20views&color=0e75b6&style=flat" alt="bulutyerli" /> </p>
