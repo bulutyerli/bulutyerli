@@ -26,6 +26,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Stripe Payment Elements with Next.js 14 App Router &amp; Webhooks &amp; Typescript](https://blog.stackademic.com/integrating-stripe-payment-elements-with-next-js-14-app-router-webhooks-typescript-4d6eb7710c40?source=rss-e2601a059959------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
