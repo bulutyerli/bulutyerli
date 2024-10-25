@@ -10,6 +10,9 @@
   <a href="https://www.credly.com/badges/541c3979-4fb3-44c6-aeeb-67c4d1f5e275/public_url" target="_blank" rel="noreferrer">
     <img src="assets/aws-certified-developer-associate.png" alt="AWS Certified Developer" width="75" height="75" />
   </a>
+  <a href="https://holopin.io/@bulutyerli" target="_blank" rel="noreferrer">
+    <img src="https://assets.holopin.io/hf2024levels/level4-sloth-code-coffee-shirt-0-0.webp" alt="Holopin Badge" width="75" />
+  </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bulutyerli&label=Profile%20views&color=0e75b6&style=flat" alt="bulutyerli" /> </p>
