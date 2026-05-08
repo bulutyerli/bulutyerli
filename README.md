@@ -131,6 +131,12 @@
       <br>Sass
     </td>
     <td align="center" width="80">
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="80">
       <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
       </a>
@@ -152,11 +158,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bulutyerli&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=bulutyerli&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
